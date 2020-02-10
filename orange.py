@@ -1,1 +1,1 @@
-pineapple
+print('pineapple')
